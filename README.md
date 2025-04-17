@@ -1,2 +1,2 @@
 # Math-GPT
-Text To Math Problem Solver Using Google Gemma 2
+Text To Math Problem Solver And Data Search Assistant Using Google Gemma 2
